@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588159972576",
+    "firebase_url": "https://chatan-ec1ed.firebaseio.com",
+    "project_id": "chatan-ec1ed",
+    "storage_bucket": "chatan-ec1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588159972576:android:a866b9aa6b9e1984",
+        "android_client_info": {
+          "package_name": "founder.panji.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588159972576-q5vq7timuj97ets3o3j78th09kbsa68s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "founder.panji.myapplication",
+            "certificate_hash": "6360b915df978f282f49bec08ee83408f65a6f4c"
+          }
+        },
+        {
+          "client_id": "588159972576-iflv9ll19koslcubfbjge7ltm5msrjq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvdswAOnJy9exEeXRVs3n_v6mb2pHLrbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588159972576-iflv9ll19koslcubfbjge7ltm5msrjq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
